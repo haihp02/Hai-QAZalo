@@ -1,0 +1,274 @@
+Number train sample: 511
+Load dataset done !!!
+Number train sample: 511
+Load dataset done !!!
+Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Log write at epoch: 0, step: 4 and lr: 7e-06
+train result - loss: 0.004, acc: 0.918, f1: 0.957
+Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Log write at epoch: 0, step: 4 and lr: 7e-06
+train result - loss: 0.004, acc: 0.759, f1: 0.863
+end for logging current step 4 !!!Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Log write at epoch: 0, step: 4 and lr: 7e-06
+train result - loss: 0.004, acc: 0.661, f1: 0.796
+end for logging current step 4 !!!Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 15Log write at epoch: 0, step: 4 and lr: 7e-06
+train result - loss: 0.004, acc: 0.845, f1: 0.916
+end for logging current step 4 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch0_step4Log write at epoch: 1, step: 8 and lr: 5e-06
+train result - loss: 0.002, acc: 1.0, f1: 1.0
+end for logging current step 8 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch1_step8Log write at epoch: 2, step: 12 and lr: 2e-06
+train result - loss: 0.002, acc: 1.0, f1: 1.0
+end for logging current step 12 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch2_step12Log write at epoch: 3, step: 16 and lr: 0.0
+train result - loss: 0.002, acc: 1.0, f1: 1.0
+end for logging current step 16 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch3_step16Log write at epoch: 4, step: 20 and lr: 0.0
+train result - loss: 0.002, acc: 1.0, f1: 1.0
+end for logging current step 20 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch4_step20Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 3Log write at epoch: 0, step: 4 and lr: 0.0
+train result - loss: 0.004, acc: 0.99, f1: 0.995
+end for logging current step 4 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch0_step4Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 3Log write at epoch: 0, step: 4 and lr: 0.0
+train result - loss: 0.004, acc: 0.81, f1: 0.895
+end for logging current step 4 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch0_step4Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Log write at epoch: 0, step: 26 and lr: 0.0
+train result - loss: 0.029, acc: 0.996, f1: 0.998
+end for logging current step 26 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch0_step26Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 125Log write at epoch: 0, step: 26 and lr: 8e-06
+train result - loss: 0.035, acc: 0.425, f1: 0.596
+end for logging current step 26 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch0_step26Log write at epoch: 1, step: 52 and lr: 6e-06
+train result - loss: 0.035, acc: 0.599, f1: 0.749
+end for logging current step 52 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch1_step52Log write at epoch: 2, step: 60 and lr: 5e-06
+train result - loss: 0.011, acc: 0.594, f1: 0.745
+end for logging current step 60 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch2_step60Log write at epoch: 2, step: 78 and lr: 4e-06
+train result - loss: 0.034, acc: 0.636, f1: 0.778
+end for logging current step 78 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch2_step78Log write at epoch: 3, step: 104 and lr: 2e-06
+train result - loss: 0.034, acc: 0.679, f1: 0.809
+end for logging current step 104 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch3_step104Log write at epoch: 4, step: 120 and lr: 0.0
+train result - loss: 0.021, acc: 0.744, f1: 0.853
+end for logging current step 120 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch4_step120Log write at epoch: 4, step: 130 and lr: 0.0
+train result - loss: 0.033, acc: 0.742, f1: 0.852
+end for logging current step 130 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch4_step130Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 12Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 12Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Log write at epoch: 0, step: 26 and lr: 0.0
+train result - loss: 0.016, acc: 0.959, f1: 0.979
+end for logging current step 26 !!!Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Log write at epoch: 0, step: 26 and lr: 0.0
+train result - loss: 0.016, acc: 0.959, f1: 0.979
+end for logging current step 26 !!!Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Log write at epoch: 0, step: 26 and lr: 0.0
+train result - loss: 0.014, acc: 0.986, f1: 0.993
+end for logging current step 26 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch0_step26Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Log write at epoch: 0, step: 26 and lr: 0.0
+train result - loss: 0.014, acc: 0.99, f1: 0.995
+end for logging current step 26 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch0_step26Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Log write at epoch: 0, step: 26 and lr: 0.0
+train result - loss: 0.004, acc: 1.0, f1: 1.0
+Start evaluating validation data !!
+Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Log write at epoch: 0, step: 26 and lr: 0.0
+train result - loss: 0.004, acc: 1.0, f1: 1.0
+Start evaluating validation data !!
+Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 25Log write at epoch: 0, step: 26 and lr: 0.0
+train result - loss: 0.004, acc: 1.0, f1: 1.0
+Start evaluating validation data !!
+Number train sample: 511
+Load dataset done !!!
+***** Running training *****
+  Num examples = 511  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 6Log write at epoch: 0, step: 7 and lr: 0.0
+train result - loss: 0.002, acc: 1.0, f1: 1.0
+Start evaluating validation data !!
+test result - loss: 0.096, acc: 0.317, f1: 0.481
+end for logging current step 7 !!!Saving model checkpoint to E:\OneDrive - Hanoi University of Science and Technology\Co so nganh\Engineering Practicum - NLP Lab\Hai-QAZalo\src\module_train\ouput\epoch0_step7Number train sample: 42333
+Load dataset done !!!
+***** Running training *****
+  Num examples = 42333  Num Epochs = 5  Gradient Accumulation steps = 5  Total optimization steps = 1320Log write at epoch: 0, step: 60 and lr: 1e-05
+train result - loss: 0.001, acc: 0.673, f1: 0.484
+Start evaluating validation data !!
+test result - loss: 0.016, acc: 0.747, f1: 0.535
+end for logging current step 60 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step60Log write at epoch: 0, step: 120 and lr: 9e-06
+train result - loss: 0.001, acc: 0.735, f1: 0.625
+Start evaluating validation data !!
+test result - loss: 0.014, acc: 0.799, f1: 0.716
+end for logging current step 120 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step120Log write at epoch: 0, step: 180 and lr: 9e-06
+train result - loss: 0.002, acc: 0.767, f1: 0.684
+Start evaluating validation data !!
+test result - loss: 0.012, acc: 0.835, f1: 0.743
+end for logging current step 180 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step180Log write at epoch: 0, step: 240 and lr: 8e-06
+train result - loss: 0.003, acc: 0.787, f1: 0.717
+Start evaluating validation data !!
+test result - loss: 0.012, acc: 0.84, f1: 0.765
+end for logging current step 240 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step240Log write at epoch: 0, step: 265 and lr: 8e-06
+train result - loss: 0.003, acc: 0.792, f1: 0.726
+Start evaluating validation data !!
+test result - loss: 0.011, acc: 0.845, f1: 0.77
+end for logging current step 265 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step265Log write at epoch: 1, step: 300 and lr: 8e-06
+train result - loss: 0.0, acc: 0.87, f1: 0.84
+Start evaluating validation data !!
+test result - loss: 0.011, acc: 0.861, f1: 0.765
+end for logging current step 300 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch1_step300Log write at epoch: 1, step: 360 and lr: 7e-06
+train result - loss: 0.001, acc: 0.873, f1: 0.844
+Start evaluating validation data !!
+test result - loss: 0.011, acc: 0.864, f1: 0.796
+end for logging current step 360 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch1_step360Log write at epoch: 1, step: 420 and lr: 7e-06
+train result - loss: 0.001, acc: 0.873, f1: 0.845
+Start evaluating validation data !!
+test result - loss: 0.01, acc: 0.87, f1: 0.797
+end for logging current step 420 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch1_step420Log write at epoch: 1, step: 480 and lr: 6e-06
+train result - loss: 0.002, acc: 0.878, f1: 0.849
+Start evaluating validation data !!
+test result - loss: 0.01, acc: 0.875, f1: 0.795
+end for logging current step 480 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch1_step480Log write at epoch: 1, step: 530 and lr: 6e-06
+train result - loss: 0.002, acc: 0.881, f1: 0.852
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.883, f1: 0.815
+end for logging current step 530 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch1_step530Log write at epoch: 2, step: 540 and lr: 6e-06
+train result - loss: 0.0, acc: 0.896, f1: 0.873
+Start evaluating validation data !!
+test result - loss: 0.01, acc: 0.882, f1: 0.811
+end for logging current step 540 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch2_step540Log write at epoch: 2, step: 600 and lr: 5e-06
+train result - loss: 0.0, acc: 0.904, f1: 0.882
+Start evaluating validation data !!
+test result - loss: 0.01, acc: 0.886, f1: 0.827
+end for logging current step 600 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch2_step600Log write at epoch: 2, step: 660 and lr: 5e-06
+train result - loss: 0.001, acc: 0.906, f1: 0.884
+Start evaluating validation data !!
+test result - loss: 0.01, acc: 0.879, f1: 0.818
+end for logging current step 660 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch2_step660Log write at epoch: 2, step: 720 and lr: 5e-06
+train result - loss: 0.001, acc: 0.907, f1: 0.886
+Start evaluating validation data !!
+test result - loss: 0.01, acc: 0.894, f1: 0.832
+end for logging current step 720 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch2_step720Log write at epoch: 2, step: 780 and lr: 4e-06
+train result - loss: 0.001, acc: 0.908, f1: 0.888
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.889, f1: 0.82
+end for logging current step 780 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch2_step780Log write at epoch: 2, step: 795 and lr: 4e-06
+train result - loss: 0.001, acc: 0.909, f1: 0.889
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.889, f1: 0.823
+end for logging current step 795 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch2_step795Log write at epoch: 3, step: 840 and lr: 4e-06
+train result - loss: 0.0, acc: 0.922, f1: 0.907
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.889, f1: 0.83
+end for logging current step 840 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch3_step840Log write at epoch: 3, step: 900 and lr: 3e-06
+train result - loss: 0.0, acc: 0.925, f1: 0.909
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.893, f1: 0.833
+end for logging current step 900 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch3_step900Log write at epoch: 3, step: 960 and lr: 3e-06
+train result - loss: 0.001, acc: 0.926, f1: 0.91
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.889, f1: 0.828
+end for logging current step 960 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch3_step960Log write at epoch: 3, step: 1020 and lr: 2e-06
+train result - loss: 0.001, acc: 0.927, f1: 0.911
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.895, f1: 0.839
+end for logging current step 1020 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch3_step1020Log write at epoch: 3, step: 1060 and lr: 2e-06
+train result - loss: 0.001, acc: 0.928, f1: 0.912
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.894, f1: 0.836
+end for logging current step 1060 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch3_step1060Log write at epoch: 4, step: 1080 and lr: 2e-06
+train result - loss: 0.0, acc: 0.939, f1: 0.924
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.898, f1: 0.838
+end for logging current step 1080 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch4_step1080Log write at epoch: 4, step: 1140 and lr: 1e-06
+train result - loss: 0.0, acc: 0.937, f1: 0.923
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.9, f1: 0.843
+end for logging current step 1140 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch4_step1140Log write at epoch: 4, step: 1200 and lr: 1e-06
+train result - loss: 0.001, acc: 0.937, f1: 0.923
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.898, f1: 0.841
+end for logging current step 1200 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch4_step1200Log write at epoch: 4, step: 1260 and lr: 0.0
+train result - loss: 0.001, acc: 0.938, f1: 0.924
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.899, f1: 0.842
+end for logging current step 1260 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch4_step1260Log write at epoch: 4, step: 1320 and lr: 0.0
+train result - loss: 0.001, acc: 0.938, f1: 0.925
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.899, f1: 0.844
+end for logging current step 1320 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch4_step1320Log write at epoch: 4, step: 1325 and lr: 0.0
+train result - loss: 0.001, acc: 0.939, f1: 0.925
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.899, f1: 0.844
+end for logging current step 1325 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch4_step1325Number train sample: 42333
+Load dataset done !!!
+***** Running training *****
+  Num examples = 42333  Num Epochs = 1  Gradient Accumulation steps = 5  Total optimization steps = 264Log write at epoch: 0, step: 60 and lr: 8e-06
+train result - loss: 0.0, acc: 0.902, f1: 0.882
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.885, f1: 0.816
+end for logging current step 60 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step60Log write at epoch: 0, step: 120 and lr: 5e-06
+train result - loss: 0.001, acc: 0.907, f1: 0.887
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.88, f1: 0.81
+end for logging current step 120 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step120Log write at epoch: 0, step: 180 and lr: 3e-06
+train result - loss: 0.001, acc: 0.907, f1: 0.888
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.886, f1: 0.816
+end for logging current step 180 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step180Log write at epoch: 0, step: 240 and lr: 1e-06
+train result - loss: 0.001, acc: 0.909, f1: 0.889
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.89, f1: 0.829
+end for logging current step 240 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step240Log write at epoch: 0, step: 265 and lr: 0.0
+train result - loss: 0.001, acc: 0.91, f1: 0.89
+Start evaluating validation data !!
+test result - loss: 0.009, acc: 0.891, f1: 0.827
+end for logging current step 265 !!!Saving model checkpoint to /content/drive/MyDrive/ZaloQA NLP Lab/Hai-QAZalo/src/module_train/ouput/epoch0_step265

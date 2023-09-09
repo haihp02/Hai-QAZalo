@@ -26,10 +26,25 @@ def text_file_segment(input_filepath, output_filepath):
     input_file.close()
     output_file.close()
 
+def merge_files_dir(dir_path, output_file_name):
+    in_files = os.listdir(dir_path)
+    out_file_path = os.path.join(dir_path, output_file_name)
+    output_file = open(out_file_path, 'w', encoding='utf8')
+    data = None
+    for file in in_files:
+        f_path = dir_path + '/' + file
+        with open(f_path, 'r', encoding='utf8') as f:
+            for line in f:
+                output_file.write(line)
+
+    output_file.close()
 
 
 
-if __name__ == '__main__':
+
+
+
+# if __name__ == '__main__':
     # dir_path = 'E:/OneDrive - Hanoi University of Science and Technology/Co so nganh/Engineering Practicum - NLP Lab/Hai-QAZalo/data/train'
     # input_filepaths = [f for f in os.listdir(dir_path) if os.path.isfile(dir_path+'/'+f)]
     # output_dir_path = 'E:/OneDrive - Hanoi University of Science and Technology/Co so nganh/Engineering Practicum - NLP Lab/Hai-QAZalo/data/train/word_segmented'
